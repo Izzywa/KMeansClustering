@@ -133,6 +133,7 @@ ENV/
 env.bak/
 venv.bak/
 venv
+/Users/izzywawa/Downloads/UOL/K-Means MOOC/K-means Clustering/venv
 
 # Spyder project settings
 .spyderproject
