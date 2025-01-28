@@ -10,6 +10,7 @@ The project used a simplified version of the dataset with only two features; V1 
 ## Evaluating the dataset suitability for Kmeans clustering
 ### outliers
 ![boxplot](images/boxplot_image.png)
+![description](images/described_data.png)
 
 ## Analysis
 ## Report
