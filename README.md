@@ -41,3 +41,12 @@ Although the original dataset contains four features; for this project, only two
 
 ## Report
 ![Original classification of genuine and fake banknotes](images/banknote_authentication_correct_labels.png)
+
+The dataset contains another feature called `Class`, labelling the banknotes as either genuine or fake. 
+
+The above image is a scatter plot with the feature `V2` and `V1` on the x and y axis respectively, labelled based on `Class` feature.
+
+### K-means clustering
+![Kmeans prediction](images/Kmeans_prediction.png)
+![Kmeans inaccuracies comparison](images/Kmeans_inaccuracies_over_accurate.png)
+![Kmeans inaccuracies](images/Kmeans%20inaccuracies.png)
