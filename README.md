@@ -40,3 +40,4 @@ Increasing the dimensions increases the complexity of the data without necessari
 Although the original dataset contains four features; for this project, only two features will be used, making it more suitable to apply K-means clustering
 
 ## Report
+![Original classification of genuine and fake banknotes](images/banknote_authentication_correct_labels.png)
