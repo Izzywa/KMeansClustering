@@ -58,3 +58,6 @@ The above image is a scatter plot with the feature `V2` and `V1` on the x and y 
 ![K nearest neighbour prediction](images/KNN_prediction.png)
 ![KNN inaccuracies comparison](images/KNN_inaccuracies_comparison.png)
 ![KNN inaccuracies](images/KNN_inaccuracies.png)
+![KNN with 4 features](images/KNN_4_features_prediction.png)
+![KNN with 4 features inaccuracies comparison](images/KNN_4_features_inaccuracies_comparison.png)
+![KNN with 4 features inaccuracies](images/KNN_4_features_inaccuracies.png)
