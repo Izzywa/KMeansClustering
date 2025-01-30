@@ -49,7 +49,12 @@ The above image is a scatter plot with the feature `V2` and `V1` on the x and y 
 ### K-means clustering
 ![Kmeans prediction](images/Kmeans_prediction.png)
 ![Kmeans inaccuracies comparison](images/Kmeans_inaccuracies_over_accurate.png)
-![Kmeans inaccuracies](images/Kmeans%20inaccuracies.png)
+![Kmeans inaccuracies](images/Kmeans_inaccuracies.png)
 ![Kmeans prediction with four features](images/Kmeans_curse_of_dimensionality.png)
 ![Kmeans with four means inaccuracies comparison](images/Kmeans_curse_inaccuracies_comparison.png)
 ![Kmeans with four means inaccuracies](images/Kmeans_curse_inaccuracies.png)
+
+### Comparison with Supervised learning algorithm
+![K nearest neighbour prediction](images/KNN_prediction.png)
+![KNN inaccuracies comparison](images/KNN_inaccuracies_comparison.png)
+![KNN inaccuracies](images/KNN_inaccuracies.png)
