@@ -13,6 +13,7 @@ The project used a simplified version of the dataset with only two features; V1 
 
 ### 0utliers:
 ![boxplot](images/boxplot_image.png)
+
 K-Means clustering is sensitive to outliers. Outliers can distort the clustering process, causing the algorithm to create less reliable clusters.
 
 The above is a boxplot; used to graphically depict the groups of numerical data through their quartiles.
